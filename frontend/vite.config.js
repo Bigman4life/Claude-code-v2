@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/claude-code-v2/',
+  base: '/Claude-code-v2/',
 })
